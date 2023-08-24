@@ -1,2 +1,2 @@
-# Bug Bounty Programs Dorks
+### Bug Bounty Programs Dorks
 "Powered by Bugcrowd"
